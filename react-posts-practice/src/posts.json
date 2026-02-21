@@ -1,0 +1,7 @@
+[
+  { "id": 1, "author": "Alice", "text": "Just learned about React hooks, mind blown!" },
+  { "id": 2, "author": "Bob", "text": "Does anyone else think CSS is secretly the hardest part of web dev?" },
+  { "id": 3, "author": "Carol", "text": "Finished my first full stack app today. Feels surreal." },
+  { "id": 4, "author": "Dave", "text": "Hot take: writing good variable names is an underrated skill." },
+  { "id": 5, "author": "Eve", "text": "Anyone else get unreasonably happy when the console is finally error free?" }
+]
